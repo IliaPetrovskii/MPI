@@ -1,0 +1,1 @@
+mpiexec –n *число потоков* ./x64/Debug/MPI.exe
